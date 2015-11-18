@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@android:color/holo_blue_light</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorAccent">@android:color/holo_blue_light</item>
+        <item name="colorControlHighlight">@android:color/holo_blue_dark</item>
+        <item name="colorControlNormal">#FF0000</item>
+    </style>
+</resources>
